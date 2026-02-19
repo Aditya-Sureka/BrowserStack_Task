@@ -214,6 +214,18 @@ All sessions are available in the BrowserStack Automate dashboard with:
 - ✅ Timeline visualization
 - ✅ WebDriver capabilities metadata
 
+### Build Overview
+
+The following screenshot shows the complete BrowserStack build with all 5 parallel sessions:
+
+![BrowserStack Build Overview](screenshots/build_overview.png)
+
+### Session Debug View
+
+Detailed session information including network logs, console outputs, and execution timeline:
+
+![BrowserStack Session Debug View](screenshots/session_debug.png)
+
 ## 🧠 Challenges Faced & Solutions
 
 ### Challenge 1: Click Interception
